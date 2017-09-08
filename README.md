@@ -1,2 +1,4 @@
-# wd
-Web &amp; Democracy
+# The Web & Democracy
+See Syllabus here:
+Join Slack
+
