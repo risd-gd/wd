@@ -340,3 +340,16 @@ Can the Web, a "fast" medium (low effort, high volume), lead to "slower" more me
 ## Unit 5: Open Assignment
 
 The class will hone in on three to four projects. Discuss/vote and work in teams to scope and execute the project. The project should address the basic question: how can the web ameliorate democracy: to inform people, to encourage elevated discussion, participation... all the issues we've discussed over the semester.
+
+
+Grades from A to F will be given at the end of the semester with the above criteria. This course is a required course that is seeking a certain level of competency with typography. The criteria above is meant to assess as objectively as possible a student’s proficiency in typography.
+
+## Diversity/Civility/Citizenship
+
+No learning can truly occur without accepting each other’s differences — those that we inherit and those that we choose. This course, this Department and this College thrive on self-expression. Students and faculty should feel comfortable using art and design as a means to understand themselves and their work. It is everyone’s responsibility to create an atmosphere of civility.
+
+Additionally, juniors are expected to work in Design Center. Contributing to studio culture is an important part of being part of a community. Figure out ways to show your work to your peers between classes, whether informally or at certain points. You will learn as much from each other as you will from your teachers — there are 15 of you after all!
+
+
+## Collaboration/Plagiarism/Appropriation
+All work is built upon other work; whether explicitly or not. In this course, there will be opportunities to work with your classmates to build something that is shared. Particularly with many deadlines and when learning a new skill, other people’s work may offer a pathway forward. What you do with what you see is important and can be the difference between riffing, appropriating, copying and stealing. As a general rule of thumb, if you see something you are excited about (in class or outside), understand the context in which it was made. What was the design responding to, communicating, and to whom. A deeper understanding of other people’s work generally produces additional ideas, realizations and starts to “fork” the idea (thank you, Github). It’s rare that your design problem is exactly like someone else’s. It is rare that you share the same values, interests, skills, as someone else. Referencing another person’s work can make sense (logo parodies, etc) if that fits your concept. In a school environment it’s best to check in with your teacher to see how to best make your own work truly your own.
