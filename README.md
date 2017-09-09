@@ -224,11 +224,6 @@ Urban trees -- what to make to elicit connection, reaction, etc.
 Soliciting user feedback while developing software is useful. It's also central to democracy. What does a group of people think? What do they want? Voting machines are evolving technologies, with each machine introducing its own mechanical and human flaws – the butterfly ballot that cost Al Gore the 2000 Presidential election, as an example. What can designers learn from the research done on voting to aid their own process?
 
 
-{% include images.html url="/img/post_images/zuck.jpg" description="Mark Zuckerburg, Harvard 2017 commencement address" %}
-
-
-{% include images.html url="/img/post_images/blackmirror.jpg" class="big-figure" description="Real-time voting, from an episode of Black Mirror" %}
-
 ### Week 4: Oct 2, 2017
 
 ##### Reference / Readings
