@@ -127,28 +127,25 @@ Choose an organization from the below list (or add your own) and research how th
 * How might the class structure itself support, reinforce or play with the central ideas of the course. Do we form a constitution? How much of what we do is public/online? What do we want in our GitHub repo? As a browsable site? Does majority rule?
 
 
-## Unit 1: Investing in the Public
-<!--
-How are members in a group informed about key decisions or proposed changes to the group? How might the web reach those who sit at the margins of any democratic process -- particularly when it comes time to vote, voice support or opposition to civic and state matters, etc? Those in the minority, immigrants, and the poor do not benefit equally from democratic ideals and processes. How might the Web reach these people? How might it acknowledge their perspectives? What information is available and how might it effectively reach all constituents? What does a group of people think about issues, and how might that inform policy directly?
--->
+## Unit 1: Public sites
 
-No matter which group you are a part of, there is are common things -- defined as 'public' when it refers to state-owned. How the group manages, tends to what is common is critical to the vitality of the group. An abandonment of what is public is an abandonment of what holds the groups together. Who public space was for in the U.S. has always been contentious. This unit seeks to understand the state of publicness, in Providence specifically, and a desire to invest those within it.
+Every group shares objects, space, etc — a resource is called 'public' when it refers to something state-owned. How the group manages its resources and tends to what is common is critical to the vitality of the group. Democracy is an ideal system of government, but it is rarely justly applied. Who occupies public space in the U.S. has always been contentious. This unit seeks to understand the state of our public possessions, in Providence specifically, and a desire to invest everyone within them. An abandonment of what is public is an abandonment of what holds the group together.
 
 
 ### Week 1: Sept 11, 2017
 
 We will take a walking tour and seek out public sites, noting the differences between public and private spaces. I want each of you to choose a public space, thing or institution to work with. What should everyone know about these sites? What and who is there? What is valuable or noteworthy? Who can you meet? How is the web currently a service or disservice to that space?
 
-
-Difference between public and private? Make a list in small groups, add to master list. Public is shared, Public is transparent, etc. What public institutions exist? Work together to expand the list of "Public ..." phrases. As a group, we will make a list of what is public. Where should this go?  #thingsthatarepublic
+What is the difference between public and private? Make a list in small groups. What public institutions exist? Work together to expand the list of "Public ..." phrases. As a group, we will make a list of what is public. And where should this go?  #thingsthatarepublic
 
 
 #### Project One
 
 Choose one of the following directions.
 
-* Pick a public place, thing, institution, from our tour or the list being created, and create a website for it that will communicate to everyone (residents, predominantly) the value of that public possession. How might you translate what you value about the public site to its web site?
-* The Providence government website takes a fairly expected approach. It organizes what it knows fairly efficiently so that its citizens (and potential citizens), may find information produced by the government. But this seems limiting. The essence of a city is that which changes, is mutable, changeable by the citizens themselves. There is the playground, but it's those playing on the playground that define it as well. Using the city as inspiration, how might the website for the City become more effected by its citizens? Something more dynamic, varied, dense. Clay Shirky's view of Github comes to mind, a system for managing changes. This asks you to imagine a website that would make use of the media and stories created by citizens in a less hierarchical way. Not government pushed out.... but citizens bubbling up, following Clay Shirky's networked culture.
+* Pick a public entity from our tour or the list being created, and create a website for it that will communicate to everyone (residents, predominantly) the value of that public possession. How might you translate what you value about the public site to the web? What can the medium of the web (and by extension the Internet) do to help bring awareness to its value.
+* The Providence government website takes a fairly expected approach. It organizes what it knows fairly efficiently so that its citizens (and potential citizens), may find information produced by the government. But this seems limiting. The essence of a city is that which changes, is mutable, changeable by the citizens themselves. There is the playground, but it's those playing on the playground that define it as well. Using the city as inspiration, how might the web become more effected by its citizens? Something more dynamic, varied, dense. Clay Shirky's view of Github comes to mind, a system for managing changes. This asks you to imagine a website that would make use of the media and stories created by citizens in a less hierarchical way. Not government pushed out.... but citizens bubbling up. We are in "the largest period of human expressive capability."
+* Make a project that is sited in the public space and would bring people together there
 
 
 
@@ -188,6 +185,7 @@ Next week, communicate what you have learned about your site. Communicate early 
 ###### Readings
 
 * Excerpts from *Public Things: Democracy in Disrepair,* Bonnie Honig
+* [Clay Shirky on cooperatives](https://www.youtube.com/watch?v=sPQViNNOAkw)
 * [What is Democracy For?](https://www.theatlantic.com/technology/archive/2017/05/gratitude-for-invisible-systems/526344/)
 * Read: [What People Really Want from News Organizations](https://www.theatlantic.com/technology/archive/2017/05/what-people-really-want-from-news-organizations/526902/)
 * [Protecting the Commons](https://www.theatlantic.com/technology/archive/2017/05/protecting-the-public-commons/524787/)
