@@ -8,11 +8,11 @@ Assignments will range from Web tools that serve democracy to civic fundraising 
 
 ### Course particulars
 
-* Instructor: John Caserta, jcaserta@risd.edu
-* Instructor office hours, Tue/Thur 9:30a-12p, D.C. # 704
 * Fall 2017, Mondays, 8am—1pm, D.C. # 404
-* Course Number
-* 3 credits
+* Instructor: John Caserta, jcaserta@risd.edu
+* Office hours, Tue/Thur 9:30a-12p, D.C. # 704
+* GRAPH 3173, 3 credit elective
+* wd.risd.gd -- https://github.com/risd-gd/wd
 
 ## Learning Objectives
 
@@ -102,9 +102,12 @@ Depending on where students are at with building skills, we can play a few demos
 #### Who are we?
 
 * Introduce ourselves
-* Activity: "To what groups do you belong, and how do those groups organize themselves?" As a class we will collect what we know about this topic and see how to best to organize it for others by the end of the semester. As part of this, each of you will contribute a presentation, in web form, to the rest of the class.
+* Activity: "To what groups do you belong, and how do those groups organize themselves?" [Add to this Doc](https://docs.google.com/document/d/1OAJ9aUnOGOpoQdGYAhQdMmB9MGnQWZS3hA7caDqpt0s/edit?usp=sharing)
+
 
 #### Organizational structures
+
+Each of you will contribute a presentation, in web form, to the rest of the class.
 
 * Choose an organization from the below list (or add your own) and research how the group organizes itself. Each of the following makes use of various democratic principles: representatives, voting, decentralized labor, etc. Create a single serve website that you can present to the class that communicates how the group organizes itself. Who does the work? What are the benefits and drawbacks to its structure? What are the rules? Who has a stake? What makes it special? How can we learn from it?  
 
