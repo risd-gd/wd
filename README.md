@@ -137,7 +137,9 @@ Every group shares objects, space, etc — a resource is called 'public' when it
 
 We will take a walking tour and seek out public sites, noting the differences between public and private spaces. I want each of you to choose a public space, thing or institution to work with. What should everyone know about these sites? What and who is there? What is valuable or noteworthy? Who can you meet? How is the web currently a service or disservice to that space?
 
-What is the difference between public and private? Make a list in small groups. What public institutions exist? Work together to expand the list of "Public ..." phrases. As a group, we will make a list of what is public. And where should this go?  #thingsthatarepublic
+What is the difference between public and private? Make a list in small groups. What public institutions exist? Work together to expand the list of "Public ..." phrases. As a group, we will make a list of what is public. And where should this go?
+[Put here for now.](https://docs.google.com/document/d/1zVYmPPERzy-PtCRwVjiVq2YaQQgL6DIRCCJAnx02W44/edit?usp=sharing)
+#thingsthatarepublic
 
 
 #### Project One
