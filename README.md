@@ -102,13 +102,11 @@ Depending on where students are at with building skills, we can play a few demos
 #### Who are we?
 
 * Introduce ourselves
-* Activity: "To what groups do you belong, and how do those groups organize themselves?"
+* Activity: "To what groups do you belong, and how do those groups organize themselves?" As a class we will collect what we know about this topic and see how to best to organize it for others by the end of the semester. As part of this, each of you will contribute a presentation, in web form, to the rest of the class.
 
-#### How might democratic ideals be improved (in government, organizations, etc) using the Web and technology?
+#### Organizational structures
 
-As a class we will collect what we know about this topic and see how to best to organize it for others by the end of the semester. As part of this, each of you will contribute a presentation, in web form, to the rest of the class.
-
-Choose an organization from the below list (or add your own) and research how the group organizes itself. Each of the following makes use of various democratic principles: representatives, voting, decentralized labor, etc. Create a single serve website that you can present to the class that communicates how the group organizes itself. Who does the work? What are the benefits and drawbacks to its structure? What are the rules? Who has a stake? What makes it special? How can we learn from it?  
+* Choose an organization from the below list (or add your own) and research how the group organizes itself. Each of the following makes use of various democratic principles: representatives, voting, decentralized labor, etc. Create a single serve website that you can present to the class that communicates how the group organizes itself. Who does the work? What are the benefits and drawbacks to its structure? What are the rules? Who has a stake? What makes it special? How can we learn from it?  
 
 * Quaker Community
 * The Dirt Palace
@@ -124,7 +122,7 @@ Choose an organization from the below list (or add your own) and research how th
 
 #### Creation of class pact
 
-* How might the class structure itself support, reinforce or play with the central ideas of the course. Do we form a constitution? How much of what we do is public/online? What do we want in our GitHub repo? As a browsable site? Does majority rule?
+* How might the class structure itself support, reinforce or play with the central ideas of the course. Do we form a constitution? How much of what we do is public/online? Let's use [arena](http://are.na), yes? What do we want in our GitHub repo? As a browsable site? Does majority rule?
 
 
 ## Unit 1: Public sites
