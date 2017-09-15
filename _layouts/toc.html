@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+
+
+  <body class="toc">
+    {% for post in site.posts %}
+
+          <a class="post-link" href="{{ post.url | prepend: site.github.url }}">
+         {{ post.title }}
+        </a>
+        {% endfor %}
+  </body>
+
+</html>
