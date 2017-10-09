@@ -4,6 +4,11 @@
 	</head>
 	<body>
 	        <script>
-	            Bindery.makeBook({content: "article"});
+	            Bindery.makeBook({
+	            	content: {
+	            		selector: 'article'
+	            		url:'toc.html',
+	            	},
+	            });
 	        </script>
 	</body>
