@@ -6,9 +6,18 @@
 	        <script>
 	            Bindery.makeBook({
 	            	content: {
-	            		selector: 'article'
+	            		selector: '#content'
 	            		url:'toc.html',
 	            	},
 	            });
 	        </script>
+  
+	        <section id="content">
+	        	  {% for post in site.posts %}
+		        	<div class="post-content">
+		        		{{ post.content }}
+		        	</div>
+	        	  {% endfor %}
+
+	        </section>
 	</body>
