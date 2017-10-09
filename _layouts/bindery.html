@@ -1,0 +1,20 @@
+ <!doctype html>
+ 	<head>
+		 <script src="/bindery/bindery.min.js"></script>
+	</head>
+	<body>
+	        <script>
+	            Bindery.makeBook({
+	            	content:".post-content"
+	            });
+	        </script>
+  
+	        <section id="content">
+	        	  {% for post in site.posts %}
+		        	<div class="post-content">
+		        		{{ post.content }}
+		        	</div>
+	        	  {% endfor %}
+
+	        </section>
+	</body>
