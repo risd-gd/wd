@@ -3,10 +3,6 @@
  	<head>
 	</head>
 	<body>
-	        <script>
-	             Bindery.makeBook({ content: '#content' });
-
-	        </script>
 
 	        <div id="content">
 	        	  {% for post in site.posts %}
@@ -15,5 +11,9 @@
 
 	        </div>
           <script src="/bindery/bindery.min.js"></script>
+          <script>
+	             Bindery.makeBook({ content: '#content' });
+
+	        </script>
 	</body>
 </html>
