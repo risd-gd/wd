@@ -1,4 +1,5 @@
  <!doctype html>
+<html>
  	<head>
 		 <script src="/bindery/bindery.min.js"></script>
 	</head>
@@ -7,13 +8,14 @@
 	             Bindery.makeBook({ content: '#content' });
 
 	        </script>
-  
-	        <section id="content">
+
+	        <div id="content">
 	        	  {% for post in site.posts %}
 		        	<div class="post-content">
 		        		{{ post.content }}
 		        	</div>
 	        	  {% endfor %}
 
-	        </section>
+	        </div>
 	</body>
+</html>
