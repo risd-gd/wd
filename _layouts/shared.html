@@ -17,5 +17,13 @@
 {% include lara.html %}
 {% include bre.html %}
 
+<!--
+{% for image in site.static_files %}
+{% if image.path contains '/img/cover/' %}
+  <img src="{{ site.baseurl }}{{ image.path }}"  alt="image" />
+{% endif %}
+{% endfor %}
+-->
+
   </body>
 </html>
