@@ -9,9 +9,20 @@
 
 <style> 
 
+body{
+	background: linear-gradient(132deg, #ffffff, #9ddb81);
+	background-size: 400% 400%;
+	animation: BackgroundGradient 10s ease infinite;
+}
 
-body {
-	background-color: #fceff8;
+@keyframes BackgroundGradient {
+	0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+
+
+
 }
 
 p {
@@ -29,6 +40,7 @@ p {
 	font-family: helvetica;
 	font-style: bold;
 	color: purple;
+	text-align: left;
 	margin-left:2em;
 	margin-right: 7em;
 	margin-bottom: 2em;
