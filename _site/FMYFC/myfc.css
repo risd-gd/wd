@@ -1,0 +1,280 @@
+body{
+	background: linear-gradient(132deg, #ffffff, #6a0396);
+	background-size: 400% 400%;
+	animation: BackgroundGradient 10s ease infinite;
+}
+
+@keyframes BackgroundGradient {
+	0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+
+@font-face {
+   font-family: GT-America-Mono-Trial-Bold;
+   src: url(GT-America-Mono-Trial-Bold.otf);
+}
+
+div{
+	font-family:GT-America-Mono-Trial-Bold ;
+}
+
+
+#containerone {
+  height: 100%;
+  width: 80%;
+  display: flex;
+  margin-left: 8em;
+  margin-bottom: 3em;
+  margin-top: 5em;
+}
+
+
+#logo1 {
+  width: 33%;
+  
+
+ 
+}
+#logo2 {
+  width: 33%;
+  
+}
+#logo3 {
+  width: 33%;
+  
+}
+
+#containertwo {
+  height: 100%;
+  width: 80%;
+  display: flex;
+  margin-left: 8em;
+  
+
+
+}
+#logo4 {
+  width: 33%;
+ 
+}
+#logo5 {
+  width: 33%;
+  
+}
+#logo6 {
+  width: 33%;
+  
+}
+
+#stadium {
+	float: center;
+	z-index:-40;
+	margin-left: 5em;
+}
+
+h1 {
+	font-family:helvetica;
+	opacity: 0.2;
+	color:#a653ef;
+	font-size: 250px;
+	z-index: -50;
+	position: absolute;
+	text-align: center;
+	margin-top: 0em;
+	
+  	text-shadow:
+    -1px -1px 0 #ffffff,  
+    1px -1px 0 #ffffff,
+    -1px 1px 0 #ffffff,
+    1px 1px 0 #ffffff;
+}
+
+h2 {
+	font-family:GT-America-Mono-Trial-Bold;
+	color:#a653ef;
+	text-align: left;
+	font-size: 60px;
+	opacity: 0.2;
+	margin-bottom: 2em;
+	margin-left: 2em;
+}
+
+h3 {
+	font-family:GT-America-Mono-Trial-Bold;
+	color:#a653ef;
+	text-align: center;
+	font-size: 20px;
+	opacity: 0.7;
+	margin-left: 55em;
+	
+	
+	transform: rotate(90deg);
+}
+
+
+h4{
+
+	top-margin:0em;
+	font-family:helvetica;
+	opacity: 0.2;
+	color:#a653ef;
+	font-size: 250px;
+	z-index: 0;
+	margin-top: 0em;
+	text-align: center;
+	position:fixed;
+	
+  	text-shadow:
+    -1px -1px 0 #ffffff,  
+    1px -1px 0 #ffffff,
+    -1px 1px 0 #ffffff,
+    1px 1px 0 #ffffff;
+}
+
+
+p {
+	font-size: 25px;
+	margin-left: 6em;
+	margin-right: 8em;
+	font-family: helvetica;
+	color:white;
+	margin-bottom: 2em;
+}
+
+section {
+	text-align: left;
+	margin-top: 10em;
+}
+
+#logo1 {
+		-webkit-animation: rotation 3s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+#logo2 {
+		-webkit-animation: rotation 7s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+#logo3 {
+		-webkit-animation: rotation 5s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+#logo4 {
+		-webkit-animation: rotation 10s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+#logo5 {
+		-webkit-animation: rotation 6s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+#logo6 {
+		-webkit-animation: rotation 9s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+
+#stadium {
+	margin-left:20em;
+}
+
+#fans {
+	margin-left:16em;
+	margin-top: 5em;
+}
+
+#standings {
+	margin-left: 21em;
+	margin-top: 3em;
+}
+
+#video {
+	margin-top:5em;
+	margin-left: 18em;
+}
+
+#table {
+	margin-top: 5em;
+	margin-left: 16em;
+	margin-bottom: 3em;
+}
+
+#one{
+	margin-left: 16em;
+	margin-top: 0em;
+
+}
+
+#two{
+	margin-left: 12em;
+	margin-top: 8em;
+
+}
+
+#three {
+	margin-left: 11em;
+	margin-top:6em;
+}
+
+#four{
+
+	margin-left: 10em;
+	margin-top: 6em;
+}
+
+a:hover{
+	color:#85f77b;
+}
+
