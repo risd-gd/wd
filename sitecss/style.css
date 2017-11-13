@@ -2,6 +2,7 @@ h1 {
 	font-family: Times, serif;
 	font-size: 45px;
 	margin-left: 150px;
+	margin-right: 150px;
 	max-width: 60ch;
 	letter-spacing: -1px;
 }
@@ -10,19 +11,22 @@ h2 {
 	font-family: Times, serif;
 	font-size: 30px;
 	margin-left: 150px;
+	margin-right: 150px;
 	max-width: 60ch;
 	letter-spacing: -1px;
 }
 
-a{
-	font-family: Helvetica, sans-serif;
+a, .post-link{
+	font-family: Courier, monospace;
 	font-size: 24px;
 	margin-left: 150px;
+	margin-right: 150px;
 }
 
 li, p {
 	font-family: Helvetica, sans-serif;
 	font-size: 24px;
 	margin-left: 150px;
+	margin-right: 150px;
 	max-width: 60ch;
 }
