@@ -50,3 +50,8 @@ li, p {
 	font-size: 24px;
 	max-width: 60ch;
 }
+
+/* highlight color */
+::selection {
+  background: #e62200;
+}
