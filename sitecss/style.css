@@ -1,3 +1,7 @@
+body{
+	background-color: #ccff99;
+}
+
 .leftmargin {
 	position: fixed;
 	display: inline-block;
