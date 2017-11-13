@@ -1,5 +1,5 @@
 .backgroundcolor {
-	background: linear-gradient(to bottom right, #16C8A5, #16B2C8);
+	background: green;
 	height: 1200px;
 	width: 100%;
 	display: inline-block;
@@ -16,7 +16,7 @@
 	font-family: 'space mono';
 }
 
-h1 {
+h2 {
 	font-family: helvetica, sans-serif;
 	font-size: 50px;
 }
