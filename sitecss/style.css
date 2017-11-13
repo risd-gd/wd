@@ -12,7 +12,13 @@ h2 {
 	max-width: 60ch;
 }
 
-li, a, p {
+a{
+	font-family: monospace;
+	font-size: 24px;
+	margin-left: 150px;
+}
+
+li, p {
 	font-family: monospace;
 	font-size: 24px;
 	margin-left: 150px;
