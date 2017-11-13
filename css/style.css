@@ -15,3 +15,8 @@
 .jake p {
 	font-family: 'space mono';
 }
+
+h1 {
+	font-family: helvetica, sans-serif;
+	font-size: 50px;
+}
