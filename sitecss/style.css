@@ -17,10 +17,8 @@ h2 {
 }
 
 a, .post-link{
-	font-family: Courier, monospace;
+	font-family: Helvetica, sans-serif;
 	font-size: 24px;
-	margin-left: 150px;
-	margin-right: 150px;
 }
 
 a:link {
