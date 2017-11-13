@@ -23,6 +23,22 @@ a, .post-link{
 	margin-right: 150px;
 }
 
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
+
 li, p {
 	font-family: Helvetica, sans-serif;
 	font-size: 24px;
