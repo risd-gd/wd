@@ -30,12 +30,12 @@ a, .post-link{
 }
 
 a:link {
-    color: blue;
+    color: cyan;
     text-decoration: none;
 }
 
 a:visited {
-    color: blue;
+    color: cyan;
     text-decoration: none;
 }
 
