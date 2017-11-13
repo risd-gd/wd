@@ -30,18 +30,18 @@ a, .post-link{
 }
 
 a:link {
-    color: cyan;
+    color: #00cccc;
     text-decoration: none;
 }
 
 a:visited {
-    color: cyan;
+    color: #00cccc;
     text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-    color: yellow;
+    color: #FF6347;
     text-decoration: none;
 }
 
