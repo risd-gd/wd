@@ -1,0 +1,61 @@
+body{
+	background-color: #ccff99;
+}
+
+.leftmargin {
+	position: fixed;
+	display: inline-block;
+	height: 100%;
+	width: 25%;
+	max-width: 300px;
+	padding-right: 20px;
+	margin-top: -10px;
+	margin-left: -10px;
+	color: black;
+}
+
+h1 {
+	font-family: Times, serif;
+	font-size: 45px;
+	max-width: 60ch;
+	letter-spacing: -1px;
+}
+
+h2 {
+	font-family: Times, serif;
+	font-size: 30px;
+	max-width: 60ch;
+	letter-spacing: -1px;
+}
+
+a, .post-link{
+	font-family: Helvetica, sans-serif;
+	font-size: 24px;
+}
+
+a:link {
+    color: #00cccc;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #00cccc;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+li, p {
+	font-family: Times, serif;
+	font-size: 24px;
+	max-width: 60ch;
+}
+
+/* highlight color */
+::selection {
+  background: #e62200;
+}
