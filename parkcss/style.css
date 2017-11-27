@@ -1,0 +1,111 @@
+.backgroundcolor {
+	background: blue;
+	height: 1200px;
+	width: 100%;
+	display: inline-block;
+	margin: -10px;
+}
+
+.jake p, .jake ul, .jake ol {
+	font-family: "Papyrus", fantasy;
+	font-size: 24px;
+	max-width: 50ch;
+}
+
+.jake p {
+	font-family: "Papyrus", fantasy;
+}
+.side {
+	float: left;
+	height: 100%;
+	width: 10%;
+	padding-left: 50px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	margin-right: 10px;
+}
+
+.side2 {
+	float: left;
+	height: 100%;
+	width: 60%;
+	margin-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	max-width: 80ch;
+}
+
+.menutext {
+	
+	float: left;
+	display: inline-block;
+	text-align: right;
+	width: 125px;
+	padding-top: 10px;
+}
+
+h1 {
+	font-family: "Papyrus", fantasy;
+	font-size: 45px;
+	max-width: 60ch;
+	letter-spacing: -1px;
+	color: #34495E;
+}
+
+h2 {
+	font-family: "Papyrus", fantasy;
+	font-size: 30px;
+	max-width: 60ch;
+	letter-spacing: -1px;
+	color: #34495E;
+}
+
+h3 {
+	font-family: "Papyrus", fantasy;
+	font-size: 24px;
+	max-width: 60ch;
+	letter-spacing: -1px;
+	color: #34495E;
+}
+
+h4 {
+	font-family: "Papyrus", fantasy;
+	font-size: 24px;
+	max-width: 60ch;
+	letter-spacing: -1px;
+	color: #34495E;
+}
+
+a, ol, ul, p, .post-link{
+	font-family: "Papyrus", fantasy;
+	font-size: 24px;
+}
+
+a:link {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #943126;
+    text-decoration: none;
+}
+
+li, p {
+	font-family: Times, serif;
+	font-size: 24px;
+	max-width: 60ch;
+	color: #34495E;
+}
+
+/* highlight color */
+::selection {
+  background: green;
+}
