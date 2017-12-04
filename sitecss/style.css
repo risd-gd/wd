@@ -80,6 +80,14 @@ li, p {
 	color: #34495E;
 }
 
+table, th, td {
+	font-family: Times, serif;
+	font-size: 24px;
+	max-width: 60ch;
+	letter-spacing: -1px;
+	color: #34495E;
+}
+
 /* highlight color */
 ::selection {
   background: #E74C3C;
