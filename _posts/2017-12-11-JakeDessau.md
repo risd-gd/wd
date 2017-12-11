@@ -15,3 +15,7 @@ This project was created as a collaboration with [Mostyn Griffith](http://mostyn
 
 [Unit 3](/NetNeutrality/index.html)<br>
 For my final project, I was interested in focusing on creating work that was less theoretical. Although my web development skills are limited, I figured I would practice them by calling attention to a relevant issue affecting all Americans: Net Neutrality. To address the upcoming December 14th vote, I decided I wanted to create a single page website which explained the issue and why it's relevant to all Americans. In the past, I've slowly learned about the issue, and yet I have pieced little bits of information together to understand the issue at hand. This site attempts to piece that story into one place where people who are uninformed or indifferent might learn and become more involved. I also played with using that same visual language to create an [Instagram post](https://www.instagram.com/p/BcRSnkhgVqh/?taken-by=jakedessau) to experiment with using existing media platforms to spread a message.
+
+[Greenbay Packers Presentation](/greenbay/index.html)
+
+[I Voted Stickers](https://drive.google.com/file/d/1e_XNh1Ocxmd-xbmxmxRou7FD1bQhqGA0/view?usp=sharing)
