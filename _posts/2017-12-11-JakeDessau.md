@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jake
+title: Jake Dessau
 date: 2017-12-11
 
 ---
