@@ -1,0 +1,122 @@
+.flex {
+	display: flex; /* or inline-flex */
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: baseline;
+	align-content: flex-start;
+	width: 100%;
+	background-color: white;
+}
+
+.sidemenu {
+	display: inline-block;
+	order: 1;
+	min-width: 200px;
+	max-width: 400px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+
+}
+
+a, .sidemenutext {
+	font-size: 1.5em;
+	line-height: 3;
+	color: black;
+	font-family: 'Cabin', sans-serif;
+	font-weight: 700;
+	letter-spacing: .5px;
+	color: #6600ff;
+}
+
+a:link {
+	text-decoration: none;
+    color: #6600ff;
+    font-family: 'Cabin', sans-serif;
+	font-weight: 700;
+	font-size: 1.5em;
+	text-decoration: underline;
+	line-height: 1.25;
+}
+
+/* visited link */
+a:visited {
+    text-decoration: underline;
+    color: #6600ff;
+    font-family: 'Cabin', sans-serif;
+	font-weight: 700;
+	font-size: 1.5em;
+	text-decoration: underline;
+	line-height: 1.25;
+}
+
+/* mouse over link */
+a:hover {
+    color: #6600ff;
+    font-family: 'Cabin', sans-serif;
+	font-weight: 700;
+	text-decoration: underline;
+	line-height: 1.25;
+}
+
+/* selected link */
+a:active {
+    color: #6600ff;
+    font-family: 'Cabin', sans-serif;
+	font-weight: 700;
+	text-decoration: underline;
+	line-height: 1.25;
+}
+
+
+.main {
+	display: inline-block;
+	order: 2;
+	max-width: 800px;
+	min-width: 100px;
+	background-color: white;
+	padding-left: 50px;
+	padding-right: 50px;
+  	padding-top: 20px;
+  	padding-bottom: 100px;
+
+}
+
+.body, li, ol, ul {
+	font-size: 1.25em;
+	line-height: 1.5;
+	color: black;
+	font-family: 'Cabin', sans-serif;
+	font-weight: 400;
+	letter-spacing: .5px;
+	max-width: 60ch;
+}
+
+.title {
+	font-size: 2.75em;
+	line-height: 1.1;
+	color: black;
+	font-family: 'Cabin', sans-serif;
+	font-weight: 700;
+	letter-spacing: .5px;
+}
+
+.subtitle {
+	font-size: 2em;
+	line-height: 1.1;
+	color: black;
+	font-family: 'Cabin', sans-serif;
+	font-weight: 600i;
+	letter-spacing: .5px;
+	color: #6600ff;
+	<
+}
+
+img {
+	max-width: 100%
+}
