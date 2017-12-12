@@ -13,6 +13,16 @@ h1 {
 	margin-top: 3em;
 }
 
+h1 {
+
+	font-family: helvetica;
+	font-size: 20pt;
+	text-align: center;
+	color: white;
+	margin-bottom: 5em;
+	margin-top: 3em;
+}
+
 video {
 
 	margin-left: 18em;
