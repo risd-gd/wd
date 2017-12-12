@@ -1,0 +1,91 @@
+@charset "utf-8";
+html {
+	background-color: rgba(232,232,232,1.00);
+	overflow: hidden;
+}
+@font-face {
+    font-family: bold;
+    src: url(../../fonts/AJensonPro-Bold.otf);
+}
+#types {
+	width: 1412px;
+	animation-duration: 2s;
+	animation-name: test_animation;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+@keyframes test_animation {
+	from {
+		margin-top: 0%;
+	}
+	
+	to {
+		margin-top: -58%;
+	}
+}
+
+#route {
+	width: 1412px;
+	position: relative;
+	margin-top: -200%;
+	margin-left: -200px;
+	animation-duration: 5s;
+	animation-name: test_route;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+@keyframes test_route {
+	0 {
+		margin-left: -200px;
+	}
+	
+	50% {
+		margin-left: 200px;
+	}
+	
+	100% {
+		margin-left: -200px;
+	}
+}
+
+.title {
+	position: fixed;
+	margin-top: 87px;
+	margin-left: 1411px;
+	font-size: 53px;
+	font-family: bold;
+	
+}
+
+.text {
+	position: fixed;
+	margin-top: 262px;
+	margin-left: 1411px;
+	font-size: 34px;
+	line-height: 40px;
+	font-family: bold;
+	width: 441px;
+	
+}
+
+#arrow {
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 50px;
+	z-index: 20;
+	top:91%;
+}
+
+#arrow_up {
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 50px;
+	z-index: 20;
+	top:2%;
+}

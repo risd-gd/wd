@@ -1,0 +1,76 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+
+html {
+	background-color: rgba(232,232,232,1.00);
+	overflow: hidden;
+}
+
+@font-face {
+    font-family: bold;
+    src: url(../../fonts/AJensonPro-Bold.otf);
+}
+
+.title {
+	position: fixed;
+	margin-top: 371px;
+	margin-left: 276px;
+	font-size: 53px;
+	font-family: bold;
+	
+}
+
+.text {
+	position: fixed;
+	margin-top: 459px;
+	margin-left: 276px;
+	font-size: 34px;
+	line-height: 40px;
+	font-family: bold;
+	width: 546px;
+	
+}
+
+#disconnected {
+	position: absolute;
+	top: 0;
+	width: 200%;
+	animation-duration: 2s;
+	animation-name: test_animation;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+
+@keyframes test_animation {
+	from {
+		margin-left: 0%;
+	}
+	
+	to {
+		margin-left: -100%;
+	}
+}
+
+#arrow {
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 50px;
+	z-index: 20;
+	top:91%;
+}
+
+#arrow_up {
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 50px;
+	z-index: 20;
+	top:2%;
+}
