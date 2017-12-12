@@ -1,0 +1,27 @@
+body{
+	background-color: grey;
+}
+
+
+h1 {
+
+	font-family: helvetica;
+	font-size: 20pt;
+	text-align: center;
+	color: white;
+	margin-bottom: 5em;
+}
+
+video {
+
+	margin-left: 18em;
+	margin-top: 0em;
+	display: inline-block;
+}
+
+img {
+
+	float:left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
