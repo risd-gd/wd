@@ -1,0 +1,107 @@
+html { font-family: "Minion Pro"; background-color: #c98c8c }
+
+.title {
+	font-size: 60px; 
+	margin-top: 25px; 
+	margin-left: 25px; 
+	padding: 0px
+}
+
+
+.menuWrapper {  
+	width:200px; 
+	margin-left: 25px; 
+	margin-top:40px; 
+	border-top: 5px solid; 
+	border-bottom: 5px solid;
+	float: left;
+}
+
+.menuButtonWrapper {
+	height: 40px;
+	margin: 0px;
+	padding-top: 15px;
+	padding-left: 10px;
+}
+.menuButtonWrapper:hover{background-color: #f6bdbd; cursor: pointer;}
+
+.vidWrapper {
+ 	height: 70%;
+ 	background-color: #c98c8c;
+ 	float: left;
+ 	margin-top: 40px;
+ 	margin-left:  20px;
+ 
+ 	
+}
+
+.videoFrame {
+	width: 75%;
+	height: 75%;
+	float: left;
+}
+
+.chatWrapper {
+	width: 23%;
+	height: 100%;
+	margin-left: 15px;
+	background-color: #c98c8c;
+	float: left;
+}
+
+.chat {
+	width: 90%;
+	height: 80%;
+	margin: 5%;
+	margin-top: 0;
+	overflow: scroll;
+}
+
+.chatInputWrapper
+{
+	width: 90%;
+	margin-left: 5%;
+}
+
+.chatInput
+{
+	width: 70%;
+	float: left;
+}
+
+.theInput
+{
+	width: 100%;
+	height: 50px;
+	font-size: 15px;
+	border : none;
+	border-bottom: 5px solid;
+	background-color: #c98c8c
+}
+
+.chatInputButton { 
+	width:50px; 
+	height:35px; 
+	padding-top:15px;
+	font-size: 20px; 
+	text-align: center;
+	background-color: #c98c8c;
+	margin-left: 10px;
+	float:left; 
+}
+.chatInputButton:hover{background-color: #f6bdbd;}
+
+.message {
+	width: 90%;
+	padding: 5%;
+	border-bottom: 1px solid;
+	font-size: 20px;
+	margin-bottom: 20px;
+	overflow: visible;
+}
+
+.menu {
+	font-size: 25px;
+	margin: 0px
+}
+

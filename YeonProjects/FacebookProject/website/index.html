@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<title>facebook+</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="print.js"></script>
+		<link rel="stylesheet" type="text/css" href="print.css">
+		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	</head>
+	<body>
+		<div class="title" style="background-image: url('Facebook_logo.png')"></div>
+		<div class="postWrapper">
+			<div class="titleWrapper">
+				<div class="profilePic" style="background-image: url('r2.jpg')"></div>
+				<div class="name">Yeon Hak Ryoo</div>
+				<div class="date">Nov 31, 2017</div>
+			</div>
+			<div class="content">my cat!</div>
+			<div class="contentPic" style="background-image: url('IMG_7807.jpg')"></div>
+			<div class="buttonWrapper">
+				<div class="button" id="public">public</div>
+				<div class="button" id="friends">friends</div>
+			</div>
+		</div>
+
+		<div class="printOptions">
+			<div class="question">how would you like to print?</div>
+			<div class="buttonWrapperOption">
+				<div class="button" id="poster">poster</div>
+				<div class="button" id="flyers">flyers</div>
+			</div>
+		</div>
+		<script>
+			$("#public").click(function(){
+				//alert("!!!");
+				$(".printOptions").css("display","block");
+			});
+
+			$("#poster").click(function(){
+				window.open("poster_letter.pdf");
+				$(".printOptions").css("display","none");
+			});
+
+			$("#flyers").click(function(){
+				window.open("flyer_public.pdf");
+				$(".printOptions").css("display","none");
+			});
+
+			$("#friends").click(function(){
+				//$("#printPdf").contentWindow.focus();
+				//$("#printPdf").style.width = document.getElementById("printPdf").contentWindow.document.body.scrollWidth+'px';
+				//$("#printPdf").style.height = document.getElementById("printPdf").contentWindow.document.body.scrollHeight+'px';
+				//$("#ptintPdf").css=("display","block");
+				//window.print();
+				window.open("flyer.pdf");
+			});
+		</script>
+
+
+	</body>
+
+
+</html>

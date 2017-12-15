@@ -1,0 +1,83 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="jquery.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body>
+	<div class="title">HOWLER</div>
+	<div class="menuWrapper">
+		<div class="menuButtonWrapper" id="congress"><div class="menu" >congress</div></div>
+		<div class="menuButtonWrapper" id="police"><div class="menu" >police</div></div>
+		<div class="menuButtonWrapper" id="animal"><div class="menu" >animal shelter</div></div>
+	</div>
+	<div class="vidWrapper">
+		<iframe class="videoFrame" src="https://www.youtube.com/embed/PtDCQ8F-VGE?autoplay=1" frameborder="0" allowfullscreen> </iframe>
+		<div class="chatWrapper">
+			<div class="chat"></div>
+			<div class="chatInputWrapper">
+				<div class="chatInput"><input class="theInput"></div>
+				<div class="chatInputButton">send</div>
+			</div>
+		</div>
+	</div>
+
+
+	<script>
+		$(document).ready(function(){
+
+
+			$(".chatInputButton").click(function inputClicked()
+			{
+				$(".chat").append("<div class='message'>"+$(".theInput").val()+"</div>");
+				$(".theInput").val("");
+			});
+
+			$("#congress").click(function(){
+				
+				$(".message").remove();
+				$(".videoFrame").attr("src","https://www.youtube.com/embed/PtDCQ8F-VGE?autoplay=1");
+				scrollBottom();
+			});
+
+			$("#police").click(function(){
+				
+				$(".message").remove();
+				$(".videoFrame").attr("src","https://www.youtube.com/embed/XgSCdJ0b3m8?autoplay=1");
+				scrollBottom();
+			});
+
+			$("#animal").click(function(){
+				
+				$(".message").remove();
+				$(".videoFrame").attr("src","https://www.youtube.com/embed/g5VWF1teg4w?autoplay=1");
+				scrollBottom();
+			});
+
+
+			$(".vidWrapper").css("width",$(window).width()-325+"px");
+
+			$(".theInput").keypress(function(e)
+			{
+				if(e.which == 13)
+				{
+					//alert("!!!!!");
+					$(".chatInputButton").click();
+				}
+			});
+		});
+
+		function scrollBottom()
+		{
+			$(".chat").scrollTop($(".chat").scrollHeight);
+		}
+
+	</script>
+
+</body>
+
+
+</html>
