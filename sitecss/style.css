@@ -20,10 +20,8 @@
 }
 
 .menutext {
-	
-	float: left;
-	display: inline-block;
-	text-align: right;
+
+	text-align: left;
 	width: 125px;
 	padding-top: 10px;
 }
