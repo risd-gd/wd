@@ -1,0 +1,98 @@
+body {
+	background-color: red
+	;
+
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 200px;
+	color: #1066ef;
+	stroke:#FFFFFF;
+	text-align: right;
+	margin-top: 0em;
+	margin-bottom: 2em;
+	padding-bottom: 1em;
+
+
+}
+
+
+h2 {
+	font-family: helvetica;
+	font-size: 20px;
+	color: white;
+	text-align: right;
+	margin-top: 0em;
+	margin-right:3em;
+	text-decoration: none;
+
+}
+
+
+h3 {
+	font-family: helvetica;
+	font-size: 100px;
+	color: white;
+	text-align: right;
+	margin-top: 3em;
+	margin-bottom: 2em;
+	text-align: center;
+	border-left: solid 5px white;
+	border-right: solid 5px white;
+	margin-bottom: 1em;
+
+
+
+}
+
+h4 {
+	font-family: helvetica;
+	font-size: 90px;
+	color: white;
+	text-align: right;
+	margin-top: 3em;
+	margin-bottom: 2em;
+	text-align: center;
+	border-left: solid 5px white;
+	border-right: solid 5px white;
+	margin-bottom: 1em;
+
+
+
+}
+
+h5{
+	font-family: helvetica;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	margin-top: -5em;
+	margin-bottom: 4em;
+	text-align: center;
+	border-left: solid 5px white;
+	border-right: solid 5px white;
+	margin-bottom: 1em;
+	position:relative;
+
+}
+
+a {
+	color:#1066ef;
+	text-decoration: none;
+}
+
+a:hover {
+	color:white;
+
+}
+
+.title{
+	color: white;
+    text-shadow:
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
+
+

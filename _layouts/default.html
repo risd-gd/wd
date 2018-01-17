@@ -6,18 +6,20 @@
   <body class="permalink">
     <div class="side">
       <div class="menutext">
+        ↘
+        <ul>
     {% for post in site.posts %}
-          <a class="post-link" href="{{ post.url | prepend: site.github.url }}">
+          <li><a class="post-link" href="{{ post.url | prepend: site.github.url }}">
          {{ post.title }}
-        </a>
+       </a></li>
         {% endfor %}
+      </ul>
       </div>
    </div>
    <div class="side2">
               <h1>{{ page.title }}</h1>
 
-          <p class="label">Posted  on
-            <time datetime="page.date">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+            <time datetime="page.date">{{ page.date | date: "%B %-d, %Y" }}</time>
         <article>
           {{ content }}
         </article>

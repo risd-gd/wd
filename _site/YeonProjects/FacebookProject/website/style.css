@@ -1,0 +1,126 @@
+html{
+	width : 100%;
+	height: 100%;
+	font-family: sans-serif;
+}
+
+.title{
+	height: 180px;
+	width: 60%;
+	margin-left: 20%;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.postWrapper{
+	width: 450px;
+	height:500px;
+	margin: 0 auto;
+	box-shadow: 15px 15px 20px rgb(59,89,152); 
+}
+.titleWrapper{
+	width:96%;
+	height:70px;
+	margin-left: 2%;
+	margin-top: 10px;
+}
+.profilePic{
+	width:50px;
+	height:50px;
+	float: left;
+	border-radius: 50%;
+	background-size: contain;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.name{
+	font-weight: bold;
+	width: 80%;
+	color: rgb(59,89,152);
+	margin-top: 10px;
+	margin-left: 15px;
+	float: left;
+}
+
+.date{
+	font-size: 15px;
+	width: 80%;
+	color: rgb(200,200,200);
+	margin-top: 6px;
+	margin-left: 15px;
+	float: left;
+}
+
+.content{
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 10px;
+}
+
+.contentPic{
+	width: 90%;
+	height: 60%;
+	margin-left: 5%;
+	margin-top: 15px;
+	background-size: contain;
+	background-repeat: no-repeat;
+
+}
+
+.buttonWrapper{
+	width: 60%;
+	margin-left: 35%;
+	margin-top: 20px;
+}
+
+.button{
+	height: 40px;
+	width: 70px;
+	background-color: rgb(59,89,152);
+	border-radius: 5px;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 18px;
+	color: white;
+	line-height: 40px;
+	margin-left: 5px;
+	margin-right: 5px;
+	float:right;
+}
+
+.button:hover{
+	background-color: rgb(139,157,195);
+	cursor: pointer;
+}
+
+.printOptions{
+	width: 28%;
+	height: 20%;
+	position: fixed;
+	left: 36%;
+	top: 30%;
+	background-color: white;
+	box-shadow: 15px 15px 20px rgb(59,89,152); 
+	display: none;
+}
+
+.question{
+	width: 94%;
+	margin-left: 3%;
+	margin-top: 10%;
+	text-align: center;
+}
+
+.buttonWrapperOption{
+	width: 160px;
+	margin: 0 auto;
+	margin-top: 15%;
+}
+
+#printPdf{
+	display: none;
+	position: fixed;
+	left: 0;
+	top: 0;
+}

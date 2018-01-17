@@ -1,4 +1,17 @@
-.side {
+@font-face {
+  font-family: 'CooperHewitt';
+  src: url('/css/CooperHewitt-WebFonts-public/CooperHewitt-Bold.eot'); /* IE9 Compat Modes */
+  src: url('/css/CooperHewitt-WebFonts-public/CooperHewitt-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/css/CooperHewitt-WebFonts-public/CooperHewitt-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/css/CooperHewitt-WebFonts-public/CooperHewitt-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/css/CooperHewitt-WebFonts-public/CooperHewitt-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/css/CooperHewitt-WebFonts-public/CooperHewitt-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+body {
+	font-size: 2em; font-family: "MS-PMincho";
+}
+	.side {
 	float: left;
 	height: 100%;
 	width: 10%;
@@ -20,14 +33,15 @@
 }
 
 .menutext {
-
 	text-align: left;
 	width: 125px;
 	padding-top: 10px;
 }
-
+.menutext ul { margin: 10px; 	font-size: 12px; line-height: 120%;
+}
+ul li { list-style-type: none; margin-left: -30px;  }
 h1 {
-	font-family: Helvetica, sans-serif;
+	font-family: CooperHewitt, sans-serif;
 	font-size: 45px;
 	max-width: 60ch;
 	letter-spacing: -1px;
@@ -35,7 +49,7 @@ h1 {
 }
 
 h2, h3 {
-	font-family: Helvetica, sans-serif;
+	font-family: CooperHewitt, sans-serif;
 	font-size: 30px;
 	max-width: 60ch;
 	letter-spacing: -1px;
@@ -43,7 +57,7 @@ h2, h3 {
 }
 
 h4 {
-	font-family: Helvetica, sans-serif;
+	font-family: CooperHewitt, sans-serif;
 	font-size: 24px;
 	max-width: 60ch;
 	letter-spacing: -1px;
@@ -51,18 +65,15 @@ h4 {
 }
 
 a, .post-link{
-	font-family: Times, serif;
-	font-size: 24px;
+		color: blue;
+		text-decoration: none;
 }
 
 a:link {
-    color: #FF6347;
-    text-decoration: none;
 }
 
 a:visited {
-    color: #FF6347;
-    text-decoration: none;
+    color: grey;
 }
 
 /* mouse over link */
@@ -72,14 +83,11 @@ a:hover {
 }
 
 li, p {
-	font-family: Times, serif;
-	font-size: 24px;
 	max-width: 60ch;
 	color: #34495E;
 }
 
 table, th, td {
-	font-family: Times, serif;
 	font-size: 24px;
 	max-width: 60ch;
 	letter-spacing: -1px;

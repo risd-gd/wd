@@ -1,0 +1,129 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+
+html {
+	background-color: rgba(232,232,232,1.00);
+	overflow: hidden;
+}
+
+@font-face {
+    font-family: bold;
+    src: url(../../fonts/AJensonPro-Bold.otf);
+}
+
+
+#arrow {
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 50px;
+	z-index: 20;
+	top:91%;
+}
+
+
+#blinkone {
+	width: 100%;
+	margin-top: -50px;
+	animation-duration: 0.5s;
+	animation-name: blinkingone;
+	animation-iteration-count: infinite;
+	animation-timing-function: cubic-bezier(1,-0.76,0,1.68);
+	position: absolute;
+	margin-top: -50px;
+}
+#blinktwo {
+	width: 100%;
+	margin-top: -50px;
+	animation-duration: 0.5s;
+	animation-name: blinkingtwo;
+	animation-iteration-count: infinite;
+	animation-timing-function: cubic-bezier(1,-0.76,0,1.68);
+	position: absolute;
+	margin-top: -50px;
+}
+#blinkthree {
+	width: 100%;
+	margin-top: -50px;
+	animation-duration: 0.5s;
+	animation-name: blinkingthree;
+	animation-iteration-count: infinite;
+	animation-timing-function: cubic-bezier(1,-0.76,0,1.68);
+	position: absolute;
+	margin-top: -50px;
+}
+
+
+@keyframes blinkingone {
+    0% {
+        opacity:1;
+    }
+    25% {
+        opacity:0;
+    }
+    75% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+} 
+
+
+@keyframes blinkingtwo {
+    0% {
+        opacity:0;
+    }
+    25% {
+        opacity:1;
+    }
+    75% {
+        opacity:0;
+    }
+    100% {
+        opacity:0;
+    }
+} 
+
+
+@keyframes blinkingthree {
+    0% {
+        opacity:0;
+    }
+    25% {
+        opacity:0;
+    }
+    75% {
+        opacity:1;
+    }
+    100% {
+        opacity:0;
+    }
+} 
+
+.title {
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin:auto;
+	margin-top: 898px;
+	width: 569px;
+	text-align: center;
+	font-size: 53px;
+	font-family: bold;
+	
+}
+
+#arrow_up {
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 50px;
+	z-index: 20;
+	top:2%;
+}
