@@ -39,7 +39,7 @@ body {
 }
 .menutext ul { margin: 10px; 	font-size: 12px; line-height: 120%;
 }
-ul li { list-style-type: none; margin-left: -30px;  }
+.menutext li { list-style-type: none; margin-left: -30px;  }
 h1 {
 	font-family: CooperHewitt, sans-serif;
 	font-size: 45px;
